@@ -1,6 +1,6 @@
 # dataConversion:将华驼的数据集和鼻咽癌excel病历转换成chatGLM的数据集
 
-本项目将https://github.com/SCIR-HI/Med-ChatGLM 中的train.txt数据集和鼻咽癌病历的excel文件转换成chatGLM微调所需的train.json和dev.json两个文件
+本项目将华驼https://github.com/SCIR-HI/Med-ChatGLM 中的train.txt数据集和鼻咽癌病历的excel文件转换成chatGLM微调所需的train.json和dev.json两个文件
 
 ## A Quick Start
 
